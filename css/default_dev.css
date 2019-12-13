@@ -92,7 +92,8 @@ body {
 }
 
 #code .comments{
-	color: #3f7f5f;
+	color: red;
+	/* color: #3f7f5f; */
 }
 
 #copyright{
